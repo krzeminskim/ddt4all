@@ -1,0 +1,8 @@
+#Ignore compiled files
+*.pyc
+#Ignore ecu files
+ecu.zip
+ecus/
+Database.db
+#ignore logs
+logs/
